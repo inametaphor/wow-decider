@@ -1,6 +1,7 @@
 # The WoW Decider
 
 The **WoW Decider** is a lighthearted, browser-based JavaScript app that helps World of Warcraft players decide what to do next. Built as part of Codecademy’s Full-Stack Engineer path, this project began as a simple randomizer assignment but maybe got away from me a little bit.
+
 ---
 
 ## Features
@@ -27,7 +28,7 @@ The **WoW Decider** is a lighthearted, browser-based JavaScript app that helps W
 
 ---
 
-## Technologies Used
+## Tech "Stack"
 
 - **HTML5** — semantic structure for clarity and accessibility  
 - **CSS3** — thematic styling with responsive design and CSS variables  
@@ -35,7 +36,7 @@ The **WoW Decider** is a lighthearted, browser-based JavaScript app that helps W
 
 ---
 
-## Key Concepts Demonstrated
+## Key Concepts
 
 - DOM selection and manipulation (`querySelector`, `.style`, `.textContent`)  
 - Event handling with `.addEventListener()`  
@@ -54,4 +55,4 @@ The **WoW Decider** is a lighthearted, browser-based JavaScript app that helps W
 
 ## Notes
 
-This project started as a randomizer assignment — and ended up being a love letter to early-2000s gaming - and Geocities - nostalgia. It’s overkill for the assignment, but if you're going to do a "portfolio project," it might as well be a good one.
+This project started as a randomizer assignment and ended up being a love letter to early-2000s gaming - and Geocities - nostalgia. It’s overkill for the assignment, but if you're going to do a "portfolio project," it might as well be a good one.
