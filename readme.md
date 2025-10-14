@@ -1,7 +1,6 @@
 # The WoW Decider
 
-The **WoW Decider** is a lighthearted, browser-based JavaScript app that helps World of Warcraft players decide what to do next. Built as part of Codecademy’s Full-Stack Engineer path, this project began as a simple randomizer assignment — and evolved into a fully themed, interactive experience with ASCII art, dynamic UI updates, and nostalgic flair.
-
+The **WoW Decider** is a lighthearted, browser-based JavaScript app that helps World of Warcraft players decide what to do next. Built as part of Codecademy’s Full-Stack Engineer path, this project began as a simple randomizer assignment but maybe got away from me a little bit.
 ---
 
 ## Features
